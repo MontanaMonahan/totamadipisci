@@ -1,0 +1,54 @@
+{
+  "name": "totamadipisci",
+  "description": "Get the last or last n elements in an array.",
+  "version": "1.0.0",
+  "author": "MicaelaBlock",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MontanaMonahan/totamadipisci.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MontanaMonahan/totamadipisci.git/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "is-number": "^0.1.1"
+  },
+  "devDependencies": {
+    "ansi-bold": "^0.1.1",
+    "array-slice": "^0.2.3",
+    "benchmarked": "^0.1.4",
+    "matched": "^0.3.2",
+    "mocha": "*"
+  },
+  "keywords": [
+    "array",
+    "nisi",
+    "aut",
+    "initial",
+    "javascript",
+    "sit",
+    "aliquam",
+    "rem",
+    "odit",
+    "utility",
+    "culpa"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "arr-union",
+        "array-unique",
+        "array-xor"
+      ],
+      "description": ""
+    }
+  }
+}
